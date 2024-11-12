@@ -54,7 +54,6 @@ Aqui estão algumas capturas de tela representativas do programa em execução:
 
 3. **Tela de Exibição da Fila e Pilha**
 
-
 ## <a name="tecnologias-utilizadas"></a> 🛠️ Tecnologias Utilizadas
 
 - **C**: Linguagem de programação utilizada para o desenvolvimento do projeto.
@@ -68,8 +67,7 @@ Este projeto permitiu explorar conceitos fundamentais de estrutura de dados apli
 
 ## <a name="nota-final"></a> 🎓 Nota Final
 
-Obtive a nota máxima neste projeto, com muita dedicação e interesse.
-
+Consegui a nota máxima nesse projeto, e isso foi resultado de muito empenho e curiosidade! Desenvolver essa simulação de emparelhamento de DNA usando filas e pilhas foi um grande aprendizado. Mais do que só aplicar a teoria de Estruturas de Dados, esse projeto me fez entender na prática como conceitos de programação se conectam com a biologia. Foi uma experiência valiosa e desafiadora, que reforçou minha confiança para desenvolver algoritmos de forma mais eficiente e com propósito.
 
 ## <a name="autora"></a> 👩‍💻 Autora
 
