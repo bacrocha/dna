@@ -20,7 +20,15 @@ O objetivo deste projeto é simular o processo de emparelhamento de bases nitrog
 - **Adenina (A)** emparelha com **Timina (T)**
 - **Citosina (C)** emparelha com **Guanina (G)**
 
-A sequência de entrada é armazenada em uma Fila Dinâmica e o emparelhamento gerado é armazenado em uma Pilha Dinâmica, simulando a formação da dupla hélice do DNA.
+A sequência de entrada é armazenada em uma Fila Dinâmica e o emparelhamento gerado é armazenado em uma Pilha Dinâmica, simulando a formação da dupla hélice do DNA conforme o solicitado no escopo da atividade da faculdade:
+
+*Para que este algoritmo funcione de acordo com o contexto apresentado, você deve:*
+
+*1 - Ler a entrada de DNA com n caracteres compostos por uma sequência de nucleotídeos (A C T G) e armazená-los em uma estrutura de FILA DINÂMICA.*
+
+*2 - Ao concluir a entrada, você deve remover a sequência da fila para a dupla fita do DNA convertendo a sequência de nucleotídeos (T G A C) e armazená-los em uma estrutura de PILHA DINÂMICA.*
+
+*3 - Faça a impressão de ambas as estruturas.*
 
 ## <a name="funcionalidades-implementadas"></a> ⚙️ Funcionalidades Implementadas
 
