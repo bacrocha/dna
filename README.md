@@ -55,12 +55,19 @@ O código segue a seguinte estrutura:
 Aqui estão algumas capturas de tela representativas do programa em execução:
 
 1. **Tela Inicial - Menu do Programa**
-
+<p align="center">
+  <img src="assets/menu.PNG">
+</p>
 
 2. **Tela de Entrada de Sequência**
-
+<p align="center">
+  <img src="assets/entrada.PNG">
+</p>
 
 3. **Tela de Exibição da Fila e Pilha**
+<p align="center">
+  <img src="assets/saida.PNG">
+</p>
 
 ## <a name="tecnologias-utilizadas"></a> 🛠️ Tecnologias Utilizadas
 
